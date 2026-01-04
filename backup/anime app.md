@@ -7,9 +7,9 @@
 - ## 萌萌的看板 d(d＇∀＇)
 <br>
 
-## _原项目链接:https://github.com/Predidit/Kazumi?tab=readme-ov-file_
+## _原项目地址：https://github.com/Predidit/Kazumi?tab=readme-ov-file_
  
-## 下载链接(◔౪◔):https://github.com/Predidit/Kazumi/releases/tag/1.9.3
+## _下载链接(◔౪◔)：https://github.com/Predidit/Kazumi/releases/tag/1.9.3_
 
 ## 食用方法：直接打开看就行 点那些有绿色标志的然后进去加载一会这样 嫌kazumi要自己检查更新源和要自己负责同步的可以用NO.2的animeko
 
@@ -20,8 +20,8 @@
 
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/ed0b5c85-d47c-478e-8111-133318eca943" />
 
-## 原项目地址：https://github.com/open-ani/animeko
-## 下载链接：https://github.com/open-ani/animeko/releases/tag/v5.2.0
+## _原项目地址：https://github.com/open-ani/animeko_
+## _下载链接：https://github.com/open-ani/animeko/releases/tag/v5.2.0_
 ## 食用方法：下载下来直接用就行 真的非常简单 而且非常nb 不需要自己选源 会自己匹配这样 动画也非常丝滑 会自动更新源 登录可以自己云同步 适合大部分人简单无广告的看动漫 当然有些源就是有广告的自己换一下找一找这样 很简单
 ## （ ~~但是没萌萌的看板所以排下面~~ ）
 
