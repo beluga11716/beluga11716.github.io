@@ -45,9 +45,9 @@
 
 
 ### 下载链接如下
-### Clash Verge for Windows 下载链接:https://wwbaq.lanzouu.com/ikRES3eulk5e
-### Clash Meta for Android 下载链接:https://wwbaq.lanzouu.com/iCtNO3euks9a
-### V2rayN 下载地址:https://wwbaq.lanzouu.com/izTXx3euhpch
+### Clash Verge for Windows 下载链接：https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.4.4
+### Clash Meta for Android 下载链接：https://wwbaq.lanzouu.com/iCtNO3euks9a
+### V2rayN 下载地址：https://github.com/2dust/v2rayN/releases/tag/7.16.9
 _**shadowrocket 的话没有资源 放个AppStore的链接吧qwq 需要有外区apple account才能使用**_
 ### AppStore 链接:https://apps.apple.com/sg/app/shadowrocket/id932747118
 
