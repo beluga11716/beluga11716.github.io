@@ -1,5 +1,5 @@
 ## 2026.1.6
-# _神明降临 （来补PT3噜）_
+# _~~神明降临~~ （来补PT3噜）_
  
 # PT.3 不同代理的使用方法
 
@@ -21,9 +21,7 @@
 
 # 在订阅那一栏导入url 确定之后在右下角小箭头那里点开
 
-<img width="379" height="286" alt="Image" src="https://github.com/user-attachments/assets/64434dbb-435a-4790-9b40-a158c0613c16" />
-
-<img width="367" height="539" alt="Image" src="https://github.com/user-attachments/assets/ddbcd44a-180b-467e-b983-b022aaa25894" />
+<img width="827" height="624" alt="Image" src="https://github.com/user-attachments/assets/5c30b92d-6acc-4820-81f9-eb4deae22a2c" />
 
 ## 对那个小猫的图案右键 选择系统代理即可使用 clash会变成红色的↓
 
