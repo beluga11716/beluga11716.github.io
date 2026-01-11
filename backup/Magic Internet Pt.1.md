@@ -52,6 +52,14 @@
 _**shadowrocket 的话没有资源 放个AppStore的链接吧qwq 需要有外区apple account才能使用**_
 ### AppStore 链接:https://apps.apple.com/sg/app/shadowrocket/id932747118
 
+<br>
+<br>
+<br>
 
+# 跳转到Pt2＆3↓
+## [Pt.2关于如何使用代理软件以进行魔法上网](https://blog.superbeluga.top/post/magic%20internet%20Pt.2.html)
+## [Pt.3不同代理的使用方法](https://blog.superbeluga.top/post/Magic%20Internet%20Pt.3.html)
 
+<br>
 
+# ξ( ✿＞◡❛)
