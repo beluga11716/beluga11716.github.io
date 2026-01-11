@@ -26,3 +26,4 @@
 <br>
 
 ### 下一part写拿到链接后怎么用 再说吧 写累了qwq
+## [Pt.3不同代理的使用方法](https://blog.superbeluga.top/post/Magic%20Internet%20Pt.3.html)
